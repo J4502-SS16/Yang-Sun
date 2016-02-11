@@ -7,10 +7,16 @@ body {
 h1{
   font-family: "Times New Roman", Times, serif;
   font-size: 25px;
+  font-weight: bold;
+}
+
+#main p{
+  font-weight: bold;
+ text-align: center;
 }
 
 img{
-  border: none;
+  border-style: none;
 }
 
 #nav{
